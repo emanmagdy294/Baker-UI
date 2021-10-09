@@ -1,0 +1,14 @@
+body
+{
+    font-family: 'Poiret One', cursive;
+    background-color: black;
+}
+a:hover
+{
+    text-decoration: none;
+    color:#e5bf4a;
+}
+p
+{
+    line-height: 1.7rem;
+}
